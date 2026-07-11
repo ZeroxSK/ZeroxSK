@@ -22,7 +22,7 @@ Currently learning, building and experimenting with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,cpp,godot,unity,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,cpp,godot,unity,github,vscode" />
 
 </div>
 
